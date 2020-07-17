@@ -13,7 +13,7 @@ function returnSex(sex) {
         case 'F':
             return 'Feminine';
         default:
-            return 'Sem'
+            return 'Sem';
     }
 }
 
